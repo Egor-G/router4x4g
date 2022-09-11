@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "HR911105A")(type "Legacy")(uri "${KIPRJMOD}/libs/symbols/HR911105A.lib")(options "")(descr ""))
+  (lib (name "MYC-Y6UL")(type "Legacy")(uri "${KIPRJMOD}/libs/symbols/MYC-Y6UL.lib")(options "")(descr ""))
+  (lib (name "TFP09-2-12B")(type "Legacy")(uri "${KIPRJMOD}/libs/symbols/TFP09-2-12B.lib")(options "")(descr ""))
+)
