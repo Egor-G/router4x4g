@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "router4x4g.kicad_pro",
+    "filename": "Router_Modems.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -318,20 +318,8 @@
   },
   "sheets": [
     [
-      "c7782ccb-b4c6-45c1-8835-4c55f210dd2b",
+      "00783413-2b88-472c-be17-11dd3796712d",
       ""
-    ],
-    [
-      "f195f7de-1bc9-42bb-850b-02b7bea04c9f",
-      "Modems_1"
-    ],
-    [
-      "092b8085-d924-4232-8286-d16253d7fc05",
-      "Power"
-    ],
-    [
-      "1f2bfb7e-bb16-442c-885e-df924c0ba408",
-      "Modems_2"
     ]
   ],
   "text_variables": {}
