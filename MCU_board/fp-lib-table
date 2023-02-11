@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "proj")(type "KiCad")(uri "/home/egor/Router4x4g/PCBs/libs/footprints/proj.pretty")(options "")(descr ""))
+  (lib (name "MYC-Y6UL")(type "KiCad")(uri "/home/egor/Router4x4g/PCBs/libs/footprints/MYC-Y6UL.pretty")(options "")(descr ""))
+)

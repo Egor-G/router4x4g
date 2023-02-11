@@ -3,4 +3,5 @@
   (lib (name "MYC-Y6UL")(type "Legacy")(uri "/home/egor/Router4x4g/PCBs/libs/symbols/MYC-Y6UL.lib")(options "")(descr ""))
   (lib (name "Myir")(type "KiCad")(uri "/home/egor/Router4x4g/PCBs/libs/symbols/Myir.kicad_sym")(options "")(descr ""))
   (lib (name "TFP09-2-12B")(type "Legacy")(uri "/home/egor/Router4x4g/PCBs/libs/symbols/TFP09-2-12B.lib")(options "")(descr ""))
+  (lib (name "MDT420B03001")(type "KiCad")(uri "/home/egor/Router4x4g/PCBs/libs/symbols/MDT420B03001.kicad_sym")(options "")(descr ""))
 )
