@@ -1,0 +1,2128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/egor/Router4x4g/PCBs/Modems_board/Router_Modems.kicad_sch</source>
+    <date>Вт 14 фев 2023 13:26:33</date>
+    <tool>Eeschema 6.0.11-2627ca5db0~126~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Router_Modems.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1f6bfd6-808b-4139-b768-cb27300ff59d</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>47u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24ac1f2e-275a-4a26-9725-54c79042000d</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d6058a8-fb17-4c44-ac34-fc131f71a9c9</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b9d8638-d809-4846-9727-24fb5b8bb647</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05509cca-5690-40a6-9932-713ae471203c</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37fbafdd-5ea8-424f-aa4c-db0ba815a82e</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>47u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ab03273-6f31-4017-b0fd-d921577c5eea</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>910p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa847934-7834-4081-85bb-20c1fa7b7fa6</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>6.8p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40ace82d-5e2b-4d40-b727-2a556c778e4b</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7669ba1b-fd2a-4d33-8031-8dceb4a8447a</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff252547-d432-409b-a9d5-27e105a40b20</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95940570-f5a3-430d-b55a-b1196c7869db</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>47u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8dd38742-5c6a-4ff9-a86b-f5999e1f380d</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>215ba026-c22e-46d0-bbe3-e493a21220ca</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9839385-9d63-427a-b992-ebeadc54ec79</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed35d474-8547-4dc3-a1aa-35134dab4ae3</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>47u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c04cfd2e-4fbd-4e21-a6d3-3f17762f8b2c</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0f7cad5-e6d7-4d08-8e79-659fcdccb667</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5641fccc-baf6-4c7a-87d5-68fa33004920</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>910p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4548d18-820c-4515-8eaf-17197c1b7b93</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>6.8p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06a6c1ff-9877-4c5b-84f2-844f6406862a</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>edde9a68-bc2c-47cf-a64e-714d72971abb</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76a534b7-1b76-4cd0-98d9-b2f48a0f18ef</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>100u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>883bcc3c-bede-44b1-9761-d4a417b2def5</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>47u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42b0a91f-04ac-4e94-a7e9-4d2b459bf986</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>100u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd5753b7-6f8f-4ff3-b61b-53885a628013</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5eb9106e-db49-4bd1-a115-50471e3bf19e</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c05000a4-1660-4959-806d-50f674f88f1c</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>47u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7eca2d0-22ed-4c97-9c17-6f6ab4a34f49</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5697317-6fca-4916-a6d1-e78f42197d4e</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>47u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d083e879-b407-4e34-9f37-6fddcf475cb9</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b504d992-45a0-407b-b314-0e26775be8d6</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>478d67db-aa50-406d-ad3a-f27103757219</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>47u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a49e3817-a192-442f-84a0-c2e58752f226</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>100u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>695721d6-d747-4206-b174-3aa5e1a8d276</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>100u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d92a6992-948f-49e8-83ff-f5fad5f23256</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>100u 50V</value>
+      <footprint>Capacitor_SMD:CP_Elec_10x10.5</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fa393e6-863e-4356-a11c-a8f4b2158954</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8dd77e9-21b2-4ddb-8597-31268912974f</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SS510</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f00b42ec-bb1f-4278-a92f-6e08f0fabab9</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fe69485-284a-4616-b9ce-6c65d77b7c99</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>SS510</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9bfe7ba1-abf6-429b-a2fe-655b860ff787</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06894242-bd9e-4814-a386-7917aab62278</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9385be02-5d6c-4689-bdd9-91c63814a5bd</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9b73d8e-a683-4635-9d89-c0873d7c7270</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>155ea7fe-ff5c-44b5-b870-9e0f3aebd368</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3852d420-47a8-4db6-96cb-9b45df72aa89</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74911cc7-85eb-455b-b2e3-3971e2f9fdd7</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>M3</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd792b53-3b60-49c7-b466-a55c1642b71b</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>15uH</value>
+      <footprint>Inductor_SMD:L_Sunlord_MWSA1004S</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85dcddc0-9ff8-401a-a3d4-6361bd37bc3d</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>15uH</value>
+      <footprint>Inductor_SMD:L_Sunlord_MWSA1004S</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3670b88d-997b-4da0-9021-5df25682bd5b</tstamps>
+    </comp>
+    <comp ref="N1">
+      <value>SMTSO2515CTJ</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28d3e31d-f3e8-488c-913b-58b8de986cbf</tstamps>
+    </comp>
+    <comp ref="N2">
+      <value>SMTSO2515CTJ</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c2cc88b-075e-4c52-a0d2-6d8e67b7ac64</tstamps>
+    </comp>
+    <comp ref="N3">
+      <value>SMTSO2515CTJ</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cca72c4-cd48-4b51-ac42-b01ec8b77a11</tstamps>
+    </comp>
+    <comp ref="N4">
+      <value>SMTSO2515CTJ</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>746798c3-8aa6-4098-8616-a25861a43f11</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>2k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>420ceb6b-5241-4bc2-878f-8248b37312f1</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>200k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bc1d84f-55c6-436a-abc4-daa8731c42fe</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>470R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7ff8d39-12ea-4171-a0c7-1fe94446c611</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>43k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ca0009f-0204-4d6a-80c4-a6fde4e94a69</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>2k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7162c06-8770-494a-bf1b-81ffd5b0c4d4</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>209405ac-d322-4247-93ef-ea10273257e2</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a2d1f2a-61d8-489b-bf6c-113e10003781</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>470R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a228245d-e11b-465f-86d7-5772514f4c05</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>200k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bc6801e-a997-43dc-82b9-47cd501e9249</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>43k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b32cd46-dbaf-4874-8413-741c4903f619</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>2k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c39d72ad-7803-41a9-b0db-9ecb5727c351</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>782e35b3-555c-4d3a-aa92-558985d823de</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38dfc1c3-7290-4478-bff7-1f3b9d02d50f</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>470R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ee1066e-c76b-421f-a36a-8dd412ae5334</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>2k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ba98217-d904-4f43-8288-5273b863a9af</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>470R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b09d708-75d9-4d3f-9a92-98c909460d2a</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <libsource lib="Power_Protection" part="SRV05-4" description="ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae9d90bb-75fe-4bbc-9d3f-ce81b8785677</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TPS54540</value>
+      <footprint>Package_SO:TI_SO-PowerPAD-8_ThermalVias</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tps54360.pdf</datasheet>
+      <libsource lib="Regulator_Switching" part="TPS54360DDA" description="3.5A, Step Down DC-DC Converter with Eco-mode, 4.5-60V Input Voltage, PowerSO-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e42c0053-e52e-4337-b070-e5a88f3e577f</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <libsource lib="Power_Protection" part="SRV05-4" description="ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>599665ef-416c-4e5b-8ad4-3c17e67696e1</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>TPS54540</value>
+      <footprint>Package_SO:TI_SO-PowerPAD-8_ThermalVias</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tps54360.pdf</datasheet>
+      <libsource lib="Regulator_Switching" part="TPS54360DDA" description="3.5A, Step Down DC-DC Converter with Eco-mode, 4.5-60V Input Voltage, PowerSO-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>368ce538-41bf-43cf-a6ae-fe6272741dca</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <libsource lib="Power_Protection" part="SRV05-4" description="ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e934ff82-0e19-4a57-9555-4708b081f1c8</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <libsource lib="Power_Protection" part="SRV05-4" description="ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f6f92f3-609f-4d9b-aea3-74b0edc3e342</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>SIM_Card</value>
+      <footprint>proj:FCI_7111S2015X02LF</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="SIM_Card" description="SIM Card"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab1ff3e3-b7d2-4d12-980b-a557f544fbf0</tstamps>
+    </comp>
+    <comp ref="X2">
+      <value>B2B-XH</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c225e6fb-55e4-466f-8eba-ed0e18d5036c</tstamps>
+    </comp>
+    <comp ref="X3">
+      <value>Bus_M.2_Socket_B</value>
+      <footprint>proj:AMPHENOL_MDT420B03001</footprint>
+      <datasheet>http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=154</datasheet>
+      <libsource lib="" part="Bus_M.2_Socket_B_1" description="M.2 Socket 2 Mechanical Key B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5541c390-5fb1-4406-8c4d-396022ad29a0</tstamps>
+    </comp>
+    <comp ref="X4">
+      <value>SIM_Card</value>
+      <footprint>proj:FCI_7111S2015X02LF</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="SIM_Card" description="SIM Card"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16565f5b-7d33-450c-b3cb-d84953783fa8</tstamps>
+    </comp>
+    <comp ref="X5">
+      <value>Bus_M.2_Socket_B</value>
+      <footprint>proj:AMPHENOL_MDT420B03001</footprint>
+      <datasheet>http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=154</datasheet>
+      <libsource lib="" part="Bus_M.2_Socket_B_1" description="M.2 Socket 2 Mechanical Key B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ed1a8c7-bbab-4301-8449-b35215888ea5</tstamps>
+    </comp>
+    <comp ref="X6">
+      <value>SIM_Card</value>
+      <footprint>proj:FCI_7111S2015X02LF</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="SIM_Card" description="SIM Card"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2112060d-28a7-469c-a06c-b006da6fb520</tstamps>
+    </comp>
+    <comp ref="X7">
+      <value>Bus_M.2_Socket_B</value>
+      <footprint>proj:AMPHENOL_MDT420B03001</footprint>
+      <datasheet>http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=154</datasheet>
+      <libsource lib="" part="Bus_M.2_Socket_B_1" description="M.2 Socket 2 Mechanical Key B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a633d301-7560-4e76-86e0-39a8952c1d76</tstamps>
+    </comp>
+    <comp ref="X8">
+      <value>B4B-XH</value>
+      <footprint>Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>429563c3-9422-400e-9da3-803c94afb2de</tstamps>
+    </comp>
+    <comp ref="X9">
+      <value>B4B-XH</value>
+      <footprint>Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b38d6f00-d43e-43d7-89c0-23f8961e0d65</tstamps>
+    </comp>
+    <comp ref="X10">
+      <value>SIM_Card</value>
+      <footprint>proj:FCI_7111S2015X02LF</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="SIM_Card" description="SIM Card"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a30c3666-072d-4bae-93bb-57789ff670fc</tstamps>
+    </comp>
+    <comp ref="X11">
+      <value>Bus_M.2_Socket_B</value>
+      <footprint>proj:AMPHENOL_MDT420B03001</footprint>
+      <datasheet>http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=154</datasheet>
+      <libsource lib="" part="Bus_M.2_Socket_B_1" description="M.2 Socket 2 Mechanical Key B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d11d231-1108-4128-ae93-3f1fe36f7e3d</tstamps>
+    </comp>
+    <comp ref="X12">
+      <value>B4B-XH</value>
+      <footprint>Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81c0eeb5-5c82-40f6-a220-52ee75138207</tstamps>
+    </comp>
+    <comp ref="X13">
+      <value>B4B-XH</value>
+      <footprint>Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Router_Modems.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61dcf03a-2cce-426e-90d2-859c8dd87858</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="Bus_M.2_Socket_B_1">
+      <description>M.2 Socket 2 Mechanical Key B</description>
+      <docs>http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=154</docs>
+      <footprints>
+        <fp>*M*2*B*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">X3</field>
+        <field name="Value">Bus_M.2_Socket_B_1</field>
+        <field name="Footprint">proj:AMPHENOL_MDT420B03001</field>
+        <field name="Datasheet">http://read.pudn.com/downloads794/doc/project/3133918/PCIe_M.2_Electromechanical_Spec_Rev1.0_Final_11012013_RS_Clean.pdf#page=154</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CONFIG_3" type="input"/>
+        <pin num="2" name="3.3V" type="power_in"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="3.3V" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="~{FULL_CARD_POWER_OFF}" type="output"/>
+        <pin num="7" name="USB_D+" type="bidirectional"/>
+        <pin num="8" name="~{W_DISABLE1}" type="output"/>
+        <pin num="9" name="USB_D-" type="bidirectional"/>
+        <pin num="10" name="GPIO_9/DAS/~{DSS}/~{LED1}" type="bidirectional"/>
+        <pin num="11" name="GND" type="passive"/>
+        <pin num="20" name="GPIO_5" type="bidirectional"/>
+        <pin num="21" name="CONFIG_0" type="input"/>
+        <pin num="22" name="GPIO_6" type="bidirectional"/>
+        <pin num="23" name="GPIO_11" type="bidirectional"/>
+        <pin num="24" name="GPIO_7" type="bidirectional"/>
+        <pin num="25" name="DPR" type="output"/>
+        <pin num="26" name="GPIO_10" type="bidirectional"/>
+        <pin num="27" name="GND" type="passive"/>
+        <pin num="28" name="GPIO_8" type="bidirectional"/>
+        <pin num="29" name="PERn1/USB3.0-Rx-/SSIC-RxN" type="input"/>
+        <pin num="30" name="UIM-RESET" type="input"/>
+        <pin num="31" name="PERp1/USB3.0-Rx+/SSIC-RxP" type="input"/>
+        <pin num="32" name="UIM-CLK" type="input"/>
+        <pin num="33" name="GND" type="passive"/>
+        <pin num="34" name="UIM-DATA" type="bidirectional"/>
+        <pin num="35" name="PETn1/USB3.0-Tx-/SSIC-TxN" type="output"/>
+        <pin num="36" name="UIM-PWR" type="input"/>
+        <pin num="37" name="PETp1/USB3.0-Tx+/SSIC-TxP" type="output"/>
+        <pin num="38" name="DEVSLP" type="output"/>
+        <pin num="39" name="GND" type="passive"/>
+        <pin num="40" name="GPIO_0" type="bidirectional"/>
+        <pin num="41" name="PERn0/SATA-B+" type="input"/>
+        <pin num="42" name="GPIO_1" type="bidirectional"/>
+        <pin num="43" name="PERp0/SATA-B-" type="input"/>
+        <pin num="44" name="GPIO_2" type="bidirectional"/>
+        <pin num="45" name="GND" type="passive"/>
+        <pin num="46" name="GPIO_3" type="bidirectional"/>
+        <pin num="47" name="PETn0/SATA-A-" type="output"/>
+        <pin num="48" name="GPIO_4" type="bidirectional"/>
+        <pin num="49" name="PETp0/SATA-A+" type="output"/>
+        <pin num="50" name="~{PERST}" type="output"/>
+        <pin num="51" name="GND" type="passive"/>
+        <pin num="52" name="~{CLKREQ}" type="bidirectional"/>
+        <pin num="53" name="REFCLKn" type="output"/>
+        <pin num="54" name="~{PEWAKE}" type="bidirectional"/>
+        <pin num="55" name="REFCLKp" type="output"/>
+        <pin num="56" name="NC" type="no_connect"/>
+        <pin num="57" name="GND" type="passive"/>
+        <pin num="58" name="NC" type="no_connect"/>
+        <pin num="59" name="ANTCTL0" type="input"/>
+        <pin num="60" name="COEX3" type="bidirectional"/>
+        <pin num="61" name="ANTCTL1" type="input"/>
+        <pin num="62" name="COEX2" type="bidirectional"/>
+        <pin num="63" name="ANTCTL2" type="input"/>
+        <pin num="64" name="COEX1" type="bidirectional"/>
+        <pin num="65" name="ANTCTL3" type="input"/>
+        <pin num="66" name="SIM_DETECT" type="output"/>
+        <pin num="67" name="~{RESET}" type="output"/>
+        <pin num="68" name="SUSCLK" type="output"/>
+        <pin num="69" name="CONFIG_1" type="input"/>
+        <pin num="70" name="3.3V" type="passive"/>
+        <pin num="71" name="GND" type="passive"/>
+        <pin num="72" name="3.3V" type="passive"/>
+        <pin num="73" name="GND" type="passive"/>
+        <pin num="74" name="3.3V" type="passive"/>
+        <pin num="75" name="CONFIG_2" type="input"/>
+        <pin num="P1" name="MP" type="power_in"/>
+        <pin num="P2" name="MP" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="SIM_Card">
+      <description>SIM Card</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*SIM*Card*Holder*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SIM_Card</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="RST" type="input"/>
+        <pin num="3" name="CLK" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="VPP" type="input"/>
+        <pin num="7" name="I/O" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="SRV05-4">
+      <description>ESD Protection Diodes with Low Clamping Voltage, SOT-23-6</description>
+      <docs>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SRV05-4</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IO1" type="passive"/>
+        <pin num="2" name="VN" type="passive"/>
+        <pin num="3" name="IO2" type="passive"/>
+        <pin num="4" name="IO3" type="passive"/>
+        <pin num="5" name="VP" type="passive"/>
+        <pin num="6" name="IO4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="TPS54360DDA">
+      <description>3.5A, Step Down DC-DC Converter with Eco-mode, 4.5-60V Input Voltage, PowerSO-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tps54360.pdf</docs>
+      <footprints>
+        <fp>TI*SO*PowerPAD*ThermalVias*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS54360DDA</field>
+        <field name="Footprint">Package_SO:TI_SO-PowerPAD-8_ThermalVias</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tps54360.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BOOT" type="input"/>
+        <pin num="2" name="VIN" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="RT/CLK" type="input"/>
+        <pin num="5" name="FB" type="input"/>
+        <pin num="6" name="COMP" type="passive"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="SW" type="output"/>
+        <pin num="9" name="GNDPAD" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>/usr/share/kicad/symbols//Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>/usr/share/kicad/symbols//Regulator_Switching.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3A">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="X3" pin="2" pinfunction="3.3V" pintype="power_in"/>
+      <node ref="X3" pin="4" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X3" pin="70" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X3" pin="72" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X3" pin="74" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X5" pin="2" pinfunction="3.3V" pintype="power_in"/>
+      <node ref="X5" pin="4" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X5" pin="70" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X5" pin="72" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X5" pin="74" pinfunction="3.3V" pintype="passive"/>
+    </net>
+    <net code="2" name="+3V3B">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="X11" pin="2" pinfunction="3.3V" pintype="power_in"/>
+      <node ref="X11" pin="4" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X11" pin="70" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X11" pin="72" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X11" pin="74" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X7" pin="2" pinfunction="3.3V" pintype="power_in"/>
+      <node ref="X7" pin="4" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X7" pin="70" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X7" pin="72" pinfunction="3.3V" pintype="passive"/>
+      <node ref="X7" pin="74" pinfunction="3.3V" pintype="passive"/>
+    </net>
+    <net code="3" name="/M1_ONOFF">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="X3" pin="6" pinfunction="~{FULL_CARD_POWER_OFF}" pintype="output"/>
+      <node ref="X8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="4" name="/M2_ONOFF">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="X5" pin="6" pinfunction="~{FULL_CARD_POWER_OFF}" pintype="output"/>
+      <node ref="X9" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="5" name="/M3_ONOFF">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="X12" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="X7" pin="6" pinfunction="~{FULL_CARD_POWER_OFF}" pintype="output"/>
+    </net>
+    <net code="6" name="/M4_ONOFF">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="X11" pin="6" pinfunction="~{FULL_CARD_POWER_OFF}" pintype="output"/>
+      <node ref="X13" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="7" name="/SIM1_CLK">
+      <node ref="U1" pin="1" pinfunction="IO1" pintype="passive"/>
+      <node ref="X1" pin="3" pinfunction="CLK" pintype="input"/>
+      <node ref="X3" pin="32" pinfunction="UIM-CLK" pintype="input"/>
+    </net>
+    <net code="8" name="/SIM1_DAT">
+      <node ref="U1" pin="4" pinfunction="IO3" pintype="passive"/>
+      <node ref="X1" pin="7" pinfunction="I/O" pintype="bidirectional"/>
+      <node ref="X3" pin="34" pinfunction="UIM-DATA" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/SIM1_PWR">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VP" pintype="passive"/>
+      <node ref="X1" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="X3" pin="36" pinfunction="UIM-PWR" pintype="input"/>
+    </net>
+    <net code="10" name="/SIM1_RST">
+      <node ref="U1" pin="6" pinfunction="IO4" pintype="passive"/>
+      <node ref="X1" pin="2" pinfunction="RST" pintype="input"/>
+      <node ref="X3" pin="30" pinfunction="UIM-RESET" pintype="input"/>
+    </net>
+    <net code="11" name="/SIM2_CLK">
+      <node ref="U3" pin="1" pinfunction="IO1" pintype="passive"/>
+      <node ref="X4" pin="3" pinfunction="CLK" pintype="input"/>
+      <node ref="X5" pin="32" pinfunction="UIM-CLK" pintype="input"/>
+    </net>
+    <net code="12" name="/SIM2_DAT">
+      <node ref="U3" pin="4" pinfunction="IO3" pintype="passive"/>
+      <node ref="X4" pin="7" pinfunction="I/O" pintype="bidirectional"/>
+      <node ref="X5" pin="34" pinfunction="UIM-DATA" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/SIM2_PWR">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="VP" pintype="passive"/>
+      <node ref="X4" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="X5" pin="36" pinfunction="UIM-PWR" pintype="input"/>
+    </net>
+    <net code="14" name="/SIM2_RST">
+      <node ref="U3" pin="6" pinfunction="IO4" pintype="passive"/>
+      <node ref="X4" pin="2" pinfunction="RST" pintype="input"/>
+      <node ref="X5" pin="30" pinfunction="UIM-RESET" pintype="input"/>
+    </net>
+    <net code="15" name="/SIM3_CLK">
+      <node ref="U5" pin="1" pinfunction="IO1" pintype="passive"/>
+      <node ref="X6" pin="3" pinfunction="CLK" pintype="input"/>
+      <node ref="X7" pin="32" pinfunction="UIM-CLK" pintype="input"/>
+    </net>
+    <net code="16" name="/SIM3_DAT">
+      <node ref="U5" pin="4" pinfunction="IO3" pintype="passive"/>
+      <node ref="X6" pin="7" pinfunction="I/O" pintype="bidirectional"/>
+      <node ref="X7" pin="34" pinfunction="UIM-DATA" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/SIM3_PWR">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="VP" pintype="passive"/>
+      <node ref="X6" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="X7" pin="36" pinfunction="UIM-PWR" pintype="input"/>
+    </net>
+    <net code="18" name="/SIM3_RST">
+      <node ref="U5" pin="6" pinfunction="IO4" pintype="passive"/>
+      <node ref="X6" pin="2" pinfunction="RST" pintype="input"/>
+      <node ref="X7" pin="30" pinfunction="UIM-RESET" pintype="input"/>
+    </net>
+    <net code="19" name="/SIM4_CLK">
+      <node ref="U6" pin="1" pinfunction="IO1" pintype="passive"/>
+      <node ref="X10" pin="3" pinfunction="CLK" pintype="input"/>
+      <node ref="X11" pin="32" pinfunction="UIM-CLK" pintype="input"/>
+    </net>
+    <net code="20" name="/SIM4_DAT">
+      <node ref="U6" pin="4" pinfunction="IO3" pintype="passive"/>
+      <node ref="X10" pin="7" pinfunction="I/O" pintype="bidirectional"/>
+      <node ref="X11" pin="34" pinfunction="UIM-DATA" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/SIM4_PWR">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="VP" pintype="passive"/>
+      <node ref="X10" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="X11" pin="36" pinfunction="UIM-PWR" pintype="input"/>
+    </net>
+    <net code="22" name="/SIM4_RST">
+      <node ref="U6" pin="6" pinfunction="IO4" pintype="passive"/>
+      <node ref="X10" pin="2" pinfunction="RST" pintype="input"/>
+      <node ref="X11" pin="30" pinfunction="UIM-RESET" pintype="input"/>
+    </net>
+    <net code="23" name="/USB1_N">
+      <node ref="X3" pin="9" pinfunction="USB_D-" pintype="bidirectional"/>
+      <node ref="X8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="24" name="/USB1_P">
+      <node ref="X3" pin="7" pinfunction="USB_D+" pintype="bidirectional"/>
+      <node ref="X8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="25" name="/USB2_N">
+      <node ref="X5" pin="9" pinfunction="USB_D-" pintype="bidirectional"/>
+      <node ref="X9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="26" name="/USB2_P">
+      <node ref="X5" pin="7" pinfunction="USB_D+" pintype="bidirectional"/>
+      <node ref="X9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="27" name="/USB3_N">
+      <node ref="X12" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="X7" pin="9" pinfunction="USB_D-" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/USB3_P">
+      <node ref="X12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="X7" pin="7" pinfunction="USB_D+" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/USB4_N">
+      <node ref="X11" pin="9" pinfunction="USB_D-" pintype="bidirectional"/>
+      <node ref="X13" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="30" name="/USB4_P">
+      <node ref="X11" pin="7" pinfunction="USB_D+" pintype="bidirectional"/>
+      <node ref="X13" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="31" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H5" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="N1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="N2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="N3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="N4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VN" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="GNDPAD" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="VN" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="9" pinfunction="GNDPAD" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="VN" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="VN" pintype="passive"/>
+      <node ref="X1" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="X10" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="X11" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="X11" pin="27" pinfunction="GND" pintype="passive"/>
+      <node ref="X11" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="X11" pin="33" pinfunction="GND" pintype="passive"/>
+      <node ref="X11" pin="39" pinfunction="GND" pintype="passive"/>
+      <node ref="X11" pin="45" pinfunction="GND" pintype="passive"/>
+      <node ref="X11" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="X11" pin="51" pinfunction="GND" pintype="passive"/>
+      <node ref="X11" pin="57" pinfunction="GND" pintype="passive"/>
+      <node ref="X11" pin="71" pinfunction="GND" pintype="passive"/>
+      <node ref="X11" pin="73" pinfunction="GND" pintype="passive"/>
+      <node ref="X11" pin="P1" pinfunction="MP" pintype="power_in"/>
+      <node ref="X11" pin="P2" pinfunction="MP" pintype="power_in"/>
+      <node ref="X12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="X13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="X2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="X3" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="X3" pin="27" pinfunction="GND" pintype="passive"/>
+      <node ref="X3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="X3" pin="33" pinfunction="GND" pintype="passive"/>
+      <node ref="X3" pin="39" pinfunction="GND" pintype="passive"/>
+      <node ref="X3" pin="45" pinfunction="GND" pintype="passive"/>
+      <node ref="X3" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="X3" pin="51" pinfunction="GND" pintype="passive"/>
+      <node ref="X3" pin="57" pinfunction="GND" pintype="passive"/>
+      <node ref="X3" pin="71" pinfunction="GND" pintype="passive"/>
+      <node ref="X3" pin="73" pinfunction="GND" pintype="passive"/>
+      <node ref="X3" pin="P1" pinfunction="MP" pintype="power_in"/>
+      <node ref="X3" pin="P2" pinfunction="MP" pintype="power_in"/>
+      <node ref="X4" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="X5" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="X5" pin="27" pinfunction="GND" pintype="passive"/>
+      <node ref="X5" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="X5" pin="33" pinfunction="GND" pintype="passive"/>
+      <node ref="X5" pin="39" pinfunction="GND" pintype="passive"/>
+      <node ref="X5" pin="45" pinfunction="GND" pintype="passive"/>
+      <node ref="X5" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="X5" pin="51" pinfunction="GND" pintype="passive"/>
+      <node ref="X5" pin="57" pinfunction="GND" pintype="passive"/>
+      <node ref="X5" pin="71" pinfunction="GND" pintype="passive"/>
+      <node ref="X5" pin="73" pinfunction="GND" pintype="passive"/>
+      <node ref="X5" pin="P1" pinfunction="MP" pintype="power_in"/>
+      <node ref="X5" pin="P2" pinfunction="MP" pintype="power_in"/>
+      <node ref="X6" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="X7" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="X7" pin="27" pinfunction="GND" pintype="passive"/>
+      <node ref="X7" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="X7" pin="33" pinfunction="GND" pintype="passive"/>
+      <node ref="X7" pin="39" pinfunction="GND" pintype="passive"/>
+      <node ref="X7" pin="45" pinfunction="GND" pintype="passive"/>
+      <node ref="X7" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="X7" pin="51" pinfunction="GND" pintype="passive"/>
+      <node ref="X7" pin="57" pinfunction="GND" pintype="passive"/>
+      <node ref="X7" pin="71" pinfunction="GND" pintype="passive"/>
+      <node ref="X7" pin="73" pinfunction="GND" pintype="passive"/>
+      <node ref="X7" pin="P1" pinfunction="MP" pintype="power_in"/>
+      <node ref="X7" pin="P2" pinfunction="MP" pintype="power_in"/>
+      <node ref="X8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="X9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="COMP" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="BOOT" pintype="input"/>
+    </net>
+    <net code="35" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="SW" pintype="output"/>
+    </net>
+    <net code="36" name="Net-(C20-Pad1)">
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(C21-Pad2)">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="COMP" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(C22-Pad1)">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="BOOT" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(C22-Pad2)">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="SW" pintype="output"/>
+    </net>
+    <net code="40" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="RT/CLK" pintype="input"/>
+    </net>
+    <net code="45" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="X3" pin="10" pinfunction="GPIO_9/DAS/~{DSS}/~{LED1}" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="X5" pin="10" pinfunction="GPIO_9/DAS/~{DSS}/~{LED1}" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="RT/CLK" pintype="input"/>
+    </net>
+    <net code="49" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(R14-Pad1)">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="X7" pin="10" pinfunction="GPIO_9/DAS/~{DSS}/~{LED1}" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="Net-(R16-Pad1)">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="X11" pin="10" pinfunction="GPIO_9/DAS/~{DSS}/~{LED1}" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="VCC">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="VIN" pintype="power_in"/>
+      <node ref="X2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="53" name="unconnected-(U1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="IO2" pintype="passive+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="EN" pintype="input+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U3-Pad3)">
+      <node ref="U3" pin="3" pinfunction="IO2" pintype="passive+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U4-Pad3)">
+      <node ref="U4" pin="3" pinfunction="EN" pintype="input+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U5-Pad3)">
+      <node ref="U5" pin="3" pinfunction="IO2" pintype="passive+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U6-Pad3)">
+      <node ref="U6" pin="3" pinfunction="IO2" pintype="passive+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(X1-Pad6)">
+      <node ref="X1" pin="6" pinfunction="VPP" pintype="input+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(X3-Pad1)">
+      <node ref="X3" pin="1" pinfunction="CONFIG_3" pintype="input+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(X3-Pad8)">
+      <node ref="X3" pin="8" pinfunction="~{W_DISABLE1}" pintype="output+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(X3-Pad20)">
+      <node ref="X3" pin="20" pinfunction="GPIO_5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(X3-Pad21)">
+      <node ref="X3" pin="21" pinfunction="CONFIG_0" pintype="input+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(X3-Pad22)">
+      <node ref="X3" pin="22" pinfunction="GPIO_6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(X3-Pad23)">
+      <node ref="X3" pin="23" pinfunction="GPIO_11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(X3-Pad24)">
+      <node ref="X3" pin="24" pinfunction="GPIO_7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(X3-Pad25)">
+      <node ref="X3" pin="25" pinfunction="DPR" pintype="output+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(X3-Pad26)">
+      <node ref="X3" pin="26" pinfunction="GPIO_10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(X3-Pad28)">
+      <node ref="X3" pin="28" pinfunction="GPIO_8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(X3-Pad29)">
+      <node ref="X3" pin="29" pinfunction="PERn1/USB3.0-Rx-/SSIC-RxN" pintype="input+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(X3-Pad31)">
+      <node ref="X3" pin="31" pinfunction="PERp1/USB3.0-Rx+/SSIC-RxP" pintype="input+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(X3-Pad35)">
+      <node ref="X3" pin="35" pinfunction="PETn1/USB3.0-Tx-/SSIC-TxN" pintype="output+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(X3-Pad37)">
+      <node ref="X3" pin="37" pinfunction="PETp1/USB3.0-Tx+/SSIC-TxP" pintype="output+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(X3-Pad38)">
+      <node ref="X3" pin="38" pinfunction="DEVSLP" pintype="output+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(X3-Pad40)">
+      <node ref="X3" pin="40" pinfunction="GPIO_0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(X3-Pad41)">
+      <node ref="X3" pin="41" pinfunction="PERn0/SATA-B+" pintype="input+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(X3-Pad42)">
+      <node ref="X3" pin="42" pinfunction="GPIO_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(X3-Pad43)">
+      <node ref="X3" pin="43" pinfunction="PERp0/SATA-B-" pintype="input+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(X3-Pad44)">
+      <node ref="X3" pin="44" pinfunction="GPIO_2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(X3-Pad46)">
+      <node ref="X3" pin="46" pinfunction="GPIO_3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(X3-Pad47)">
+      <node ref="X3" pin="47" pinfunction="PETn0/SATA-A-" pintype="output+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(X3-Pad48)">
+      <node ref="X3" pin="48" pinfunction="GPIO_4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(X3-Pad49)">
+      <node ref="X3" pin="49" pinfunction="PETp0/SATA-A+" pintype="output+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(X3-Pad50)">
+      <node ref="X3" pin="50" pinfunction="~{PERST}" pintype="output+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(X3-Pad52)">
+      <node ref="X3" pin="52" pinfunction="~{CLKREQ}" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(X3-Pad53)">
+      <node ref="X3" pin="53" pinfunction="REFCLKn" pintype="output+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(X3-Pad54)">
+      <node ref="X3" pin="54" pinfunction="~{PEWAKE}" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(X3-Pad55)">
+      <node ref="X3" pin="55" pinfunction="REFCLKp" pintype="output+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(X3-Pad56)">
+      <node ref="X3" pin="56" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(X3-Pad58)">
+      <node ref="X3" pin="58" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(X3-Pad59)">
+      <node ref="X3" pin="59" pinfunction="ANTCTL0" pintype="input+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(X3-Pad60)">
+      <node ref="X3" pin="60" pinfunction="COEX3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(X3-Pad61)">
+      <node ref="X3" pin="61" pinfunction="ANTCTL1" pintype="input+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(X3-Pad62)">
+      <node ref="X3" pin="62" pinfunction="COEX2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(X3-Pad63)">
+      <node ref="X3" pin="63" pinfunction="ANTCTL2" pintype="input+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(X3-Pad64)">
+      <node ref="X3" pin="64" pinfunction="COEX1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(X3-Pad65)">
+      <node ref="X3" pin="65" pinfunction="ANTCTL3" pintype="input+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(X3-Pad66)">
+      <node ref="X3" pin="66" pinfunction="SIM_DETECT" pintype="output+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(X3-Pad67)">
+      <node ref="X3" pin="67" pinfunction="~{RESET}" pintype="output+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(X3-Pad68)">
+      <node ref="X3" pin="68" pinfunction="SUSCLK" pintype="output+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(X3-Pad69)">
+      <node ref="X3" pin="69" pinfunction="CONFIG_1" pintype="input+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(X3-Pad75)">
+      <node ref="X3" pin="75" pinfunction="CONFIG_2" pintype="input+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(X4-Pad6)">
+      <node ref="X4" pin="6" pinfunction="VPP" pintype="input+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(X5-Pad1)">
+      <node ref="X5" pin="1" pinfunction="CONFIG_3" pintype="input+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(X5-Pad8)">
+      <node ref="X5" pin="8" pinfunction="~{W_DISABLE1}" pintype="output+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(X5-Pad20)">
+      <node ref="X5" pin="20" pinfunction="GPIO_5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(X5-Pad21)">
+      <node ref="X5" pin="21" pinfunction="CONFIG_0" pintype="input+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(X5-Pad22)">
+      <node ref="X5" pin="22" pinfunction="GPIO_6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(X5-Pad23)">
+      <node ref="X5" pin="23" pinfunction="GPIO_11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(X5-Pad24)">
+      <node ref="X5" pin="24" pinfunction="GPIO_7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(X5-Pad25)">
+      <node ref="X5" pin="25" pinfunction="DPR" pintype="output+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(X5-Pad26)">
+      <node ref="X5" pin="26" pinfunction="GPIO_10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(X5-Pad28)">
+      <node ref="X5" pin="28" pinfunction="GPIO_8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(X5-Pad29)">
+      <node ref="X5" pin="29" pinfunction="PERn1/USB3.0-Rx-/SSIC-RxN" pintype="input+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(X5-Pad31)">
+      <node ref="X5" pin="31" pinfunction="PERp1/USB3.0-Rx+/SSIC-RxP" pintype="input+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(X5-Pad35)">
+      <node ref="X5" pin="35" pinfunction="PETn1/USB3.0-Tx-/SSIC-TxN" pintype="output+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(X5-Pad37)">
+      <node ref="X5" pin="37" pinfunction="PETp1/USB3.0-Tx+/SSIC-TxP" pintype="output+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(X5-Pad38)">
+      <node ref="X5" pin="38" pinfunction="DEVSLP" pintype="output+no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(X5-Pad40)">
+      <node ref="X5" pin="40" pinfunction="GPIO_0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(X5-Pad41)">
+      <node ref="X5" pin="41" pinfunction="PERn0/SATA-B+" pintype="input+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(X5-Pad42)">
+      <node ref="X5" pin="42" pinfunction="GPIO_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(X5-Pad43)">
+      <node ref="X5" pin="43" pinfunction="PERp0/SATA-B-" pintype="input+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(X5-Pad44)">
+      <node ref="X5" pin="44" pinfunction="GPIO_2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(X5-Pad46)">
+      <node ref="X5" pin="46" pinfunction="GPIO_3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(X5-Pad47)">
+      <node ref="X5" pin="47" pinfunction="PETn0/SATA-A-" pintype="output+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(X5-Pad48)">
+      <node ref="X5" pin="48" pinfunction="GPIO_4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(X5-Pad49)">
+      <node ref="X5" pin="49" pinfunction="PETp0/SATA-A+" pintype="output+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(X5-Pad50)">
+      <node ref="X5" pin="50" pinfunction="~{PERST}" pintype="output+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(X5-Pad52)">
+      <node ref="X5" pin="52" pinfunction="~{CLKREQ}" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(X5-Pad53)">
+      <node ref="X5" pin="53" pinfunction="REFCLKn" pintype="output+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(X5-Pad54)">
+      <node ref="X5" pin="54" pinfunction="~{PEWAKE}" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(X5-Pad55)">
+      <node ref="X5" pin="55" pinfunction="REFCLKp" pintype="output+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(X5-Pad56)">
+      <node ref="X5" pin="56" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(X5-Pad58)">
+      <node ref="X5" pin="58" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="135" name="unconnected-(X5-Pad59)">
+      <node ref="X5" pin="59" pinfunction="ANTCTL0" pintype="input+no_connect"/>
+    </net>
+    <net code="136" name="unconnected-(X5-Pad60)">
+      <node ref="X5" pin="60" pinfunction="COEX3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="137" name="unconnected-(X5-Pad61)">
+      <node ref="X5" pin="61" pinfunction="ANTCTL1" pintype="input+no_connect"/>
+    </net>
+    <net code="138" name="unconnected-(X5-Pad62)">
+      <node ref="X5" pin="62" pinfunction="COEX2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="139" name="unconnected-(X5-Pad63)">
+      <node ref="X5" pin="63" pinfunction="ANTCTL2" pintype="input+no_connect"/>
+    </net>
+    <net code="140" name="unconnected-(X5-Pad64)">
+      <node ref="X5" pin="64" pinfunction="COEX1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="141" name="unconnected-(X5-Pad65)">
+      <node ref="X5" pin="65" pinfunction="ANTCTL3" pintype="input+no_connect"/>
+    </net>
+    <net code="142" name="unconnected-(X5-Pad66)">
+      <node ref="X5" pin="66" pinfunction="SIM_DETECT" pintype="output+no_connect"/>
+    </net>
+    <net code="143" name="unconnected-(X5-Pad67)">
+      <node ref="X5" pin="67" pinfunction="~{RESET}" pintype="output+no_connect"/>
+    </net>
+    <net code="144" name="unconnected-(X5-Pad68)">
+      <node ref="X5" pin="68" pinfunction="SUSCLK" pintype="output+no_connect"/>
+    </net>
+    <net code="145" name="unconnected-(X5-Pad69)">
+      <node ref="X5" pin="69" pinfunction="CONFIG_1" pintype="input+no_connect"/>
+    </net>
+    <net code="146" name="unconnected-(X5-Pad75)">
+      <node ref="X5" pin="75" pinfunction="CONFIG_2" pintype="input+no_connect"/>
+    </net>
+    <net code="147" name="unconnected-(X6-Pad6)">
+      <node ref="X6" pin="6" pinfunction="VPP" pintype="input+no_connect"/>
+    </net>
+    <net code="148" name="unconnected-(X7-Pad1)">
+      <node ref="X7" pin="1" pinfunction="CONFIG_3" pintype="input+no_connect"/>
+    </net>
+    <net code="149" name="unconnected-(X7-Pad8)">
+      <node ref="X7" pin="8" pinfunction="~{W_DISABLE1}" pintype="output+no_connect"/>
+    </net>
+    <net code="150" name="unconnected-(X7-Pad20)">
+      <node ref="X7" pin="20" pinfunction="GPIO_5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="151" name="unconnected-(X7-Pad21)">
+      <node ref="X7" pin="21" pinfunction="CONFIG_0" pintype="input+no_connect"/>
+    </net>
+    <net code="152" name="unconnected-(X7-Pad22)">
+      <node ref="X7" pin="22" pinfunction="GPIO_6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="153" name="unconnected-(X7-Pad23)">
+      <node ref="X7" pin="23" pinfunction="GPIO_11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="154" name="unconnected-(X7-Pad24)">
+      <node ref="X7" pin="24" pinfunction="GPIO_7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="155" name="unconnected-(X7-Pad25)">
+      <node ref="X7" pin="25" pinfunction="DPR" pintype="output+no_connect"/>
+    </net>
+    <net code="156" name="unconnected-(X7-Pad26)">
+      <node ref="X7" pin="26" pinfunction="GPIO_10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="157" name="unconnected-(X7-Pad28)">
+      <node ref="X7" pin="28" pinfunction="GPIO_8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="158" name="unconnected-(X7-Pad29)">
+      <node ref="X7" pin="29" pinfunction="PERn1/USB3.0-Rx-/SSIC-RxN" pintype="input+no_connect"/>
+    </net>
+    <net code="159" name="unconnected-(X7-Pad31)">
+      <node ref="X7" pin="31" pinfunction="PERp1/USB3.0-Rx+/SSIC-RxP" pintype="input+no_connect"/>
+    </net>
+    <net code="160" name="unconnected-(X7-Pad35)">
+      <node ref="X7" pin="35" pinfunction="PETn1/USB3.0-Tx-/SSIC-TxN" pintype="output+no_connect"/>
+    </net>
+    <net code="161" name="unconnected-(X7-Pad37)">
+      <node ref="X7" pin="37" pinfunction="PETp1/USB3.0-Tx+/SSIC-TxP" pintype="output+no_connect"/>
+    </net>
+    <net code="162" name="unconnected-(X7-Pad38)">
+      <node ref="X7" pin="38" pinfunction="DEVSLP" pintype="output+no_connect"/>
+    </net>
+    <net code="163" name="unconnected-(X7-Pad40)">
+      <node ref="X7" pin="40" pinfunction="GPIO_0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="164" name="unconnected-(X7-Pad41)">
+      <node ref="X7" pin="41" pinfunction="PERn0/SATA-B+" pintype="input+no_connect"/>
+    </net>
+    <net code="165" name="unconnected-(X7-Pad42)">
+      <node ref="X7" pin="42" pinfunction="GPIO_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="166" name="unconnected-(X7-Pad43)">
+      <node ref="X7" pin="43" pinfunction="PERp0/SATA-B-" pintype="input+no_connect"/>
+    </net>
+    <net code="167" name="unconnected-(X7-Pad44)">
+      <node ref="X7" pin="44" pinfunction="GPIO_2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="168" name="unconnected-(X7-Pad46)">
+      <node ref="X7" pin="46" pinfunction="GPIO_3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="169" name="unconnected-(X7-Pad47)">
+      <node ref="X7" pin="47" pinfunction="PETn0/SATA-A-" pintype="output+no_connect"/>
+    </net>
+    <net code="170" name="unconnected-(X7-Pad48)">
+      <node ref="X7" pin="48" pinfunction="GPIO_4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="171" name="unconnected-(X7-Pad49)">
+      <node ref="X7" pin="49" pinfunction="PETp0/SATA-A+" pintype="output+no_connect"/>
+    </net>
+    <net code="172" name="unconnected-(X7-Pad50)">
+      <node ref="X7" pin="50" pinfunction="~{PERST}" pintype="output+no_connect"/>
+    </net>
+    <net code="173" name="unconnected-(X7-Pad52)">
+      <node ref="X7" pin="52" pinfunction="~{CLKREQ}" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="174" name="unconnected-(X7-Pad53)">
+      <node ref="X7" pin="53" pinfunction="REFCLKn" pintype="output+no_connect"/>
+    </net>
+    <net code="175" name="unconnected-(X7-Pad54)">
+      <node ref="X7" pin="54" pinfunction="~{PEWAKE}" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="176" name="unconnected-(X7-Pad55)">
+      <node ref="X7" pin="55" pinfunction="REFCLKp" pintype="output+no_connect"/>
+    </net>
+    <net code="177" name="unconnected-(X7-Pad56)">
+      <node ref="X7" pin="56" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="178" name="unconnected-(X7-Pad58)">
+      <node ref="X7" pin="58" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="179" name="unconnected-(X7-Pad59)">
+      <node ref="X7" pin="59" pinfunction="ANTCTL0" pintype="input+no_connect"/>
+    </net>
+    <net code="180" name="unconnected-(X7-Pad60)">
+      <node ref="X7" pin="60" pinfunction="COEX3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="181" name="unconnected-(X7-Pad61)">
+      <node ref="X7" pin="61" pinfunction="ANTCTL1" pintype="input+no_connect"/>
+    </net>
+    <net code="182" name="unconnected-(X7-Pad62)">
+      <node ref="X7" pin="62" pinfunction="COEX2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="183" name="unconnected-(X7-Pad63)">
+      <node ref="X7" pin="63" pinfunction="ANTCTL2" pintype="input+no_connect"/>
+    </net>
+    <net code="184" name="unconnected-(X7-Pad64)">
+      <node ref="X7" pin="64" pinfunction="COEX1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="185" name="unconnected-(X7-Pad65)">
+      <node ref="X7" pin="65" pinfunction="ANTCTL3" pintype="input+no_connect"/>
+    </net>
+    <net code="186" name="unconnected-(X7-Pad66)">
+      <node ref="X7" pin="66" pinfunction="SIM_DETECT" pintype="output+no_connect"/>
+    </net>
+    <net code="187" name="unconnected-(X7-Pad67)">
+      <node ref="X7" pin="67" pinfunction="~{RESET}" pintype="output+no_connect"/>
+    </net>
+    <net code="188" name="unconnected-(X7-Pad68)">
+      <node ref="X7" pin="68" pinfunction="SUSCLK" pintype="output+no_connect"/>
+    </net>
+    <net code="189" name="unconnected-(X7-Pad69)">
+      <node ref="X7" pin="69" pinfunction="CONFIG_1" pintype="input+no_connect"/>
+    </net>
+    <net code="190" name="unconnected-(X7-Pad75)">
+      <node ref="X7" pin="75" pinfunction="CONFIG_2" pintype="input+no_connect"/>
+    </net>
+    <net code="191" name="unconnected-(X10-Pad6)">
+      <node ref="X10" pin="6" pinfunction="VPP" pintype="input+no_connect"/>
+    </net>
+    <net code="192" name="unconnected-(X11-Pad1)">
+      <node ref="X11" pin="1" pinfunction="CONFIG_3" pintype="input+no_connect"/>
+    </net>
+    <net code="193" name="unconnected-(X11-Pad8)">
+      <node ref="X11" pin="8" pinfunction="~{W_DISABLE1}" pintype="output+no_connect"/>
+    </net>
+    <net code="194" name="unconnected-(X11-Pad20)">
+      <node ref="X11" pin="20" pinfunction="GPIO_5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="195" name="unconnected-(X11-Pad21)">
+      <node ref="X11" pin="21" pinfunction="CONFIG_0" pintype="input+no_connect"/>
+    </net>
+    <net code="196" name="unconnected-(X11-Pad22)">
+      <node ref="X11" pin="22" pinfunction="GPIO_6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="197" name="unconnected-(X11-Pad23)">
+      <node ref="X11" pin="23" pinfunction="GPIO_11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="198" name="unconnected-(X11-Pad24)">
+      <node ref="X11" pin="24" pinfunction="GPIO_7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="199" name="unconnected-(X11-Pad25)">
+      <node ref="X11" pin="25" pinfunction="DPR" pintype="output+no_connect"/>
+    </net>
+    <net code="200" name="unconnected-(X11-Pad26)">
+      <node ref="X11" pin="26" pinfunction="GPIO_10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="201" name="unconnected-(X11-Pad28)">
+      <node ref="X11" pin="28" pinfunction="GPIO_8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="202" name="unconnected-(X11-Pad29)">
+      <node ref="X11" pin="29" pinfunction="PERn1/USB3.0-Rx-/SSIC-RxN" pintype="input+no_connect"/>
+    </net>
+    <net code="203" name="unconnected-(X11-Pad31)">
+      <node ref="X11" pin="31" pinfunction="PERp1/USB3.0-Rx+/SSIC-RxP" pintype="input+no_connect"/>
+    </net>
+    <net code="204" name="unconnected-(X11-Pad35)">
+      <node ref="X11" pin="35" pinfunction="PETn1/USB3.0-Tx-/SSIC-TxN" pintype="output+no_connect"/>
+    </net>
+    <net code="205" name="unconnected-(X11-Pad37)">
+      <node ref="X11" pin="37" pinfunction="PETp1/USB3.0-Tx+/SSIC-TxP" pintype="output+no_connect"/>
+    </net>
+    <net code="206" name="unconnected-(X11-Pad38)">
+      <node ref="X11" pin="38" pinfunction="DEVSLP" pintype="output+no_connect"/>
+    </net>
+    <net code="207" name="unconnected-(X11-Pad40)">
+      <node ref="X11" pin="40" pinfunction="GPIO_0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="208" name="unconnected-(X11-Pad41)">
+      <node ref="X11" pin="41" pinfunction="PERn0/SATA-B+" pintype="input+no_connect"/>
+    </net>
+    <net code="209" name="unconnected-(X11-Pad42)">
+      <node ref="X11" pin="42" pinfunction="GPIO_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="210" name="unconnected-(X11-Pad43)">
+      <node ref="X11" pin="43" pinfunction="PERp0/SATA-B-" pintype="input+no_connect"/>
+    </net>
+    <net code="211" name="unconnected-(X11-Pad44)">
+      <node ref="X11" pin="44" pinfunction="GPIO_2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="212" name="unconnected-(X11-Pad46)">
+      <node ref="X11" pin="46" pinfunction="GPIO_3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="213" name="unconnected-(X11-Pad47)">
+      <node ref="X11" pin="47" pinfunction="PETn0/SATA-A-" pintype="output+no_connect"/>
+    </net>
+    <net code="214" name="unconnected-(X11-Pad48)">
+      <node ref="X11" pin="48" pinfunction="GPIO_4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="215" name="unconnected-(X11-Pad49)">
+      <node ref="X11" pin="49" pinfunction="PETp0/SATA-A+" pintype="output+no_connect"/>
+    </net>
+    <net code="216" name="unconnected-(X11-Pad50)">
+      <node ref="X11" pin="50" pinfunction="~{PERST}" pintype="output+no_connect"/>
+    </net>
+    <net code="217" name="unconnected-(X11-Pad52)">
+      <node ref="X11" pin="52" pinfunction="~{CLKREQ}" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="218" name="unconnected-(X11-Pad53)">
+      <node ref="X11" pin="53" pinfunction="REFCLKn" pintype="output+no_connect"/>
+    </net>
+    <net code="219" name="unconnected-(X11-Pad54)">
+      <node ref="X11" pin="54" pinfunction="~{PEWAKE}" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="220" name="unconnected-(X11-Pad55)">
+      <node ref="X11" pin="55" pinfunction="REFCLKp" pintype="output+no_connect"/>
+    </net>
+    <net code="221" name="unconnected-(X11-Pad56)">
+      <node ref="X11" pin="56" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="222" name="unconnected-(X11-Pad58)">
+      <node ref="X11" pin="58" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="223" name="unconnected-(X11-Pad59)">
+      <node ref="X11" pin="59" pinfunction="ANTCTL0" pintype="input+no_connect"/>
+    </net>
+    <net code="224" name="unconnected-(X11-Pad60)">
+      <node ref="X11" pin="60" pinfunction="COEX3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="225" name="unconnected-(X11-Pad61)">
+      <node ref="X11" pin="61" pinfunction="ANTCTL1" pintype="input+no_connect"/>
+    </net>
+    <net code="226" name="unconnected-(X11-Pad62)">
+      <node ref="X11" pin="62" pinfunction="COEX2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="227" name="unconnected-(X11-Pad63)">
+      <node ref="X11" pin="63" pinfunction="ANTCTL2" pintype="input+no_connect"/>
+    </net>
+    <net code="228" name="unconnected-(X11-Pad64)">
+      <node ref="X11" pin="64" pinfunction="COEX1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="229" name="unconnected-(X11-Pad65)">
+      <node ref="X11" pin="65" pinfunction="ANTCTL3" pintype="input+no_connect"/>
+    </net>
+    <net code="230" name="unconnected-(X11-Pad66)">
+      <node ref="X11" pin="66" pinfunction="SIM_DETECT" pintype="output+no_connect"/>
+    </net>
+    <net code="231" name="unconnected-(X11-Pad67)">
+      <node ref="X11" pin="67" pinfunction="~{RESET}" pintype="output+no_connect"/>
+    </net>
+    <net code="232" name="unconnected-(X11-Pad68)">
+      <node ref="X11" pin="68" pinfunction="SUSCLK" pintype="output+no_connect"/>
+    </net>
+    <net code="233" name="unconnected-(X11-Pad69)">
+      <node ref="X11" pin="69" pinfunction="CONFIG_1" pintype="input+no_connect"/>
+    </net>
+    <net code="234" name="unconnected-(X11-Pad75)">
+      <node ref="X11" pin="75" pinfunction="CONFIG_2" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
