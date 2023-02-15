@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 1.57,
+          "height": 2.5,
+          "width": 2.5
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -53,6 +53,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.2,
+          "via_gap": 0.0,
+          "width": 0.4
         }
       ],
       "drc_exclusions": [],
@@ -372,7 +377,7 @@
         "clearance": 0.2,
         "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.5,
+        "diff_pair_width": 0.4,
         "line_style": 0,
         "microvia_diameter": 0.4,
         "microvia_drill": 0.2,
