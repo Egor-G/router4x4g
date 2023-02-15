@@ -5481,7 +5481,7 @@
     (property "Reference" "R13" (id 0) (at 144.78 232.41 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "75" (id 1) (at 144.78 234.95 0)
+    (property "Value" "75R" (id 1) (at 143.51 234.95 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 148.082 233.68 90)
@@ -5987,7 +5987,7 @@
     (property "Reference" "R14" (id 0) (at 157.48 232.41 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "75" (id 1) (at 157.48 234.95 0)
+    (property "Value" "75R" (id 1) (at 157.48 234.95 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 153.162 233.68 90)
@@ -7208,7 +7208,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d711834b-28ef-4737-b3c4-a70e3e15207a)
     (property "Reference" "U2" (id 0) (at 149.86 19.1602 0))
-    (property "Value" "TPS54540" (id 1) (at 149.86 21.6971 0))
+    (property "Value" "TPS54340" (id 1) (at 149.86 21.6971 0))
     (property "Footprint" "Package_SO:TI_SO-PowerPAD-8_ThermalVias" (id 2) (at 151.13 41.91 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
@@ -7816,10 +7816,10 @@
       (reference "R12") (unit 1) (value "200k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/24554a85-f657-4786-9b7a-58f33b046888"
-      (reference "R13") (unit 1) (value "75") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R13") (unit 1) (value "75R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/50e354ff-4c20-4cd3-853a-81a8dac19294"
-      (reference "R14") (unit 1) (value "75") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R14") (unit 1) (value "75R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/513b4f1c-29e0-4352-a51c-dd39a0fd8c58"
       (reference "R15") (unit 1) (value "18k") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -7861,7 +7861,7 @@
       (reference "U1") (unit 1) (value "MYC-YT507H") (footprint "MYC-Y6UL:MYC-YT507H")
     )
     (path "/d711834b-28ef-4737-b3c4-a70e3e15207a"
-      (reference "U2") (unit 1) (value "TPS54540") (footprint "Package_SO:TI_SO-PowerPAD-8_ThermalVias")
+      (reference "U2") (unit 1) (value "TPS54340") (footprint "Package_SO:TI_SO-PowerPAD-8_ThermalVias")
     )
     (path "/441cd409-d7e6-4d66-b6ef-d002740b33e6"
       (reference "U3") (unit 1) (value "LAN8720A") (footprint "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm")
